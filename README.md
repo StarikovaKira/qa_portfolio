@@ -1,7 +1,8 @@
 # Портфолио "Инженер по тестированию"
 В портфолио собраны работы, выполненные во время и после окончания обучения
 в GeekBrains по специальности "Инженер по тестированию". 
-Диплом: https://disk.yandex.ru/i/6kmSx2EwyEqwRg    https://disk.yandex.ru/i/5ubls4pGPSlYcg
+Диплом: https://disk.yandex.ru/i/6kmSx2EwyEqwRg    
+https://disk.yandex.ru/i/5ubls4pGPSlYcg
 
 Участвовала в тестировании мобильного приложения платёжной системы на базе Android 
 https://drive.google.com/file/d/1dH9JJfZ9uKjRY5rHli5AlpxMVRL_k9RU/view?usp=sharing 
