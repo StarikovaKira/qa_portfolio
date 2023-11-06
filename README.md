@@ -27,3 +27,7 @@ https://docs.google.com/spreadsheets/d/1DsjP_KODVcNEDNpyUF2K6oBFRIpF9CIN9Ejirkje
 Выявила баги, по которым были написаны баг-репорты:
   
 https://docs.google.com/spreadsheets/d/1ikIi39x8kFGsOvN_mVnxaHCD9zyxtn8qa_5dtqcd0rU/edit?usp=sharing
+
+в Jira:
+
+https://c-k-a.atlassian.net/browse/VB-3?atlOrigin=eyJpIjoiMjMxZmUyYzkyODhlNDFhYWFhZGJlZmRkZTQxNTcxMjIiLCJwIjoiaiJ9
