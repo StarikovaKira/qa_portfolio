@@ -1,5 +1,5 @@
 /* 
-Создайте таблицу с мобильными телефонами, используя графический интерфейс. Заполните БД данными (поля и наполнение см. в презентации)
+Создаём таблицу с мобильными телефонами
 */
 DROP DATABASE IF EXISTS db;
 CREATE DATABASE db;
@@ -25,10 +25,10 @@ VALUES
 
 -- выборки данных
 
--- Выведите название, производителя и цену для товаров, количество которых превышает 2
+-- Вывести название, производителя и цену для товаров, количество которых превышает 2
 select product_name, manufacturer, price from mobile_phones where product_count >2;
 
--- Выведите весь ассортимент товаров марки “Samsung”
+-- Вывести весь ассортимент товаров марки “Samsung”
 select product_name, manufacturer, price from mobile_phones where manufacturer = 'Samsung';
 
 
