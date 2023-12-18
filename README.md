@@ -4,7 +4,7 @@
 Диплом: https://disk.yandex.ru/i/6kmSx2EwyEqwRg    
 https://disk.yandex.ru/i/5ubls4pGPSlYcg
 
-Участвовала в тестировании мобильного приложения платёжной системы на базе Android 
+Участвовала в тестированиях мобильного приложения платёжной системы на базе Android 
 https://drive.google.com/file/d/1dH9JJfZ9uKjRY5rHli5AlpxMVRL_k9RU/view?usp=sharing 
 
 Проект тестирования веб-сайта ВТБ банка: Самостоятельно тестировала UI  веб-сайта ВТБ банка.
@@ -31,3 +31,6 @@ https://docs.google.com/spreadsheets/d/1ikIi39x8kFGsOvN_mVnxaHCD9zyxtn8qa_5dtqcd
 в Jira:
 
 https://c-k-a.atlassian.net/browse/VB-3?atlOrigin=eyJpIjoiMjMxZmUyYzkyODhlNDFhYWFhZGJlZmRkZTQxNTcxMjIiLCJwIjoiaiJ9
+
+Проводила анализ сайта по заказу:
+https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/edit?usp=sharing
