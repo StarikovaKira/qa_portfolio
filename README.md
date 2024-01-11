@@ -5,7 +5,8 @@
 https://disk.yandex.ru/i/5ubls4pGPSlYcg
 
 Участвовала в тестированиях мобильного приложения платёжной системы на базе Android 
-https://drive.google.com/file/d/1dH9JJfZ9uKjRY5rHli5AlpxMVRL_k9RU/view?usp=sharing 
+https://drive.google.com/file/d/1dH9JJfZ9uKjRY5rHli5AlpxMVRL_k9RU/view?usp=sharing
+https://drive.google.com/file/d/1WKyOSFuzGiONabKlg9pJAJdRwkR7DYcX/view?usp=sharing
 
 Проект тестирования веб-сайта ВТБ банка: Самостоятельно тестировала UI  веб-сайта ВТБ банка.
  Сделала декомпозицию логической последовательности действий пользователя на выбранном участке сайта, составила в Miro mindmap (схема переходов по сайту).
