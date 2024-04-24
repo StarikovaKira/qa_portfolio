@@ -50,23 +50,3 @@ https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/
           
  Тестовая документация:
 
-     Тестирование монетизации мобильной игры  
-     https://docs.google.com/spreadsheets/d/1IVxrABnCzshi4apeKVg37eZ9AdDRUlDpfSB3ZXWQWzE/edit?usp=sharing
-     
-     Работа с GDD, выявление вопросов к требованиям   
-     https://docs.google.com/document/d/1Gjrs0cBgT-yTYCiD-i18OUS2gH2yc6UTZfTGloqsjps/edit?usp=sharing
-     
-     Чек-лист, тест-кейс к игре   
-     https://docs.google.com/spreadsheets/d/1yKMbUQdqw8YEobStzw0irP_27VAfIYlY5FLSKg09330/edit?usp=sharing
-     
-     Баг-репорт к прототипу уровня   
-     https://docs.google.com/spreadsheets/d/1XJLCqsjUglv5vumziKyh7lvWcvfVe_BugnoMMmhgBkY/edit?usp=sharing
-     
-     Сравнительный анализ двух версий игры:   
-     https://docs.google.com/spreadsheets/d/1PH1VgVlNmkUuZvwMa_o4-nFVz5T0_WLgYs0GYXGkbpE/edit?usp=sharing
-     
-     Перетестирование порта игры    
-     https://docs.google.com/spreadsheets/d/13u9aWq8_gD9HVJUbWe_eBT3NkNYb8Cp0tkUhO-7YzCE/edit?usp=sharing
-     
-     Приоритезация и процесс обработки багов от поддержки    
-     https://docs.google.com/spreadsheets/d/1DvEMjohB7Q33ku2g_-yK6E68tggpwlrIqbrMrODRyU0/edit?usp=sharing
