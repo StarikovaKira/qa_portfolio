@@ -2,6 +2,7 @@
  
    Диплом: https://disk.yandex.ru/i/6kmSx2EwyEqwRg    
 https://disk.yandex.ru/i/5ubls4pGPSlYcg
+
 сертификат   https://otus.ru/certificate/c66ecd7b-9a27-4016-8eb1-362d57987d87/download/?lang=ru-ru
    
    РАБОТЫ ПО ТЕСТИРОВАНИЮ
