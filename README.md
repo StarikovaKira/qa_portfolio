@@ -50,6 +50,5 @@ https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/
           
  Тестовая документация:
 
-    Тестирование монетизации мобильной игры
  
 
