@@ -3,13 +3,15 @@
    Диплом: https://disk.yandex.ru/i/6kmSx2EwyEqwRg    
 https://disk.yandex.ru/i/5ubls4pGPSlYcg
 сертификат   https://otus.ru/certificate/c66ecd7b-9a27-4016-8eb1-362d57987d87/download/?lang=ru-ru
-
+   
+   РАБОТЫ ПО ТЕСТИРОВАНИЮ
+   
    Участвовала в тестированиях мобильного приложения платёжной системы на базе Android 
 https://drive.google.com/file/d/1dH9JJfZ9uKjRY5rHli5AlpxMVRL_k9RU/view?usp=sharing
 https://drive.google.com/file/d/1WKyOSFuzGiONabKlg9pJAJdRwkR7DYcX/view?usp=sharing
 
    Проект тестирования части веб-сайта ВТБ банка: 
-составила в Miro mindmap    https://miro.com/app/board/uXjVMud8gh0=/?share_link_id=443182165082 
+составила в Miro mind map    https://miro.com/app/board/uXjVMud8gh0=/?share_link_id=443182165082 
 
 https://miro.com/app/board/uXjVMuecbcc=/?share_link_id=837716149606 
 
@@ -27,9 +29,29 @@ https://docs.google.com/spreadsheets/d/1DsjP_KODVcNEDNpyUF2K6oBFRIpF9CIN9Ejirkje
   
 https://docs.google.com/spreadsheets/d/1ikIi39x8kFGsOvN_mVnxaHCD9zyxtn8qa_5dtqcd0rU/edit?usp=sharing
 
+   Miro:  mind map   https://miro.com/app/board/uXjVMU0TfUM=/?share_link_id=332121369840
+   
    вариант написания баг-репорта в Jira: https://drive.google.com/file/d/1iMEt_JqALlNMbN_UHgLKwpTBexNm3rHL/view?usp=sharing
 
    анализ сайта по заказу:
 https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/edit?usp=sharing
 
    тестирование сайта предприятия "ЮНИСТИМ" - по заказу (нет разрешения на демонстрацию тестовой документации)
+
+
+  РАБОТЫ ПО ТЕСТИРОВАНИЮ ИГР
+
+  Miro:   mind map   https://miro.com/app/board/uXjVNBqpfIE=/?share_link_id=553492498333
+          mind map   https://miro.com/app/board/uXjVN0QLCTQ=/?share_link_id=857650826832
+          mind map   https://miro.com/app/board/uXjVKa6FYQI=/?share_link_id=725828204512
+          схема состояний и переходов  https://miro.com/app/board/uXjVNAGry18=/?share_link_id=411455532194
+          
+ Тестовая документация:
+
+     Тестирование монетизации мобильной игры  https://docs.google.com/spreadsheets/d/1IVxrABnCzshi4apeKVg37eZ9AdDRUlDpfSB3ZXWQWzE/edit?usp=sharing
+     Работа с GDD, выявление вопросов к требованиям   https://docs.google.com/document/d/1Gjrs0cBgT-yTYCiD-i18OUS2gH2yc6UTZfTGloqsjps/edit?usp=sharing
+     Чек-лист, тест-кейс к игре   https://docs.google.com/spreadsheets/d/1yKMbUQdqw8YEobStzw0irP_27VAfIYlY5FLSKg09330/edit?usp=sharing
+     Баг-репорт к прототипу уровня   https://docs.google.com/spreadsheets/d/1XJLCqsjUglv5vumziKyh7lvWcvfVe_BugnoMMmhgBkY/edit?usp=sharing
+     Сравнительный анализ двух версий игры:   https://docs.google.com/spreadsheets/d/1PH1VgVlNmkUuZvwMa_o4-nFVz5T0_WLgYs0GYXGkbpE/edit?usp=sharing
+     Перетестирование порта игры    https://docs.google.com/spreadsheets/d/13u9aWq8_gD9HVJUbWe_eBT3NkNYb8Cp0tkUhO-7YzCE/edit?usp=sharing
+     Приоритезация и процесс обработки багов от поддержки    https://docs.google.com/spreadsheets/d/1DvEMjohB7Q33ku2g_-yK6E68tggpwlrIqbrMrODRyU0/edit?usp=sharing
