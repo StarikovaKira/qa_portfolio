@@ -71,7 +71,7 @@ https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/
  Баг-репорт к прототипу уровня   
  https://docs.google.com/spreadsheets/d/1XJLCqsjUglv5vumziKyh7lvWcvfVe_BugnoMMmhgBkY/edit?usp=sharing
  
- Сравнительный анализ двух версий игры:   
+ Сравнительный анализ двух версий игры SuperCity:   
  https://docs.google.com/spreadsheets/d/1PH1VgVlNmkUuZvwMa_o4-nFVz5T0_WLgYs0GYXGkbpE/edit?usp=sharing
  
  Перетестирование порта игры    
