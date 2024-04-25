@@ -12,7 +12,9 @@ https://drive.google.com/file/d/1dH9JJfZ9uKjRY5rHli5AlpxMVRL_k9RU/view?usp=shari
 https://drive.google.com/file/d/1WKyOSFuzGiONabKlg9pJAJdRwkR7DYcX/view?usp=sharing
 
    Проект тестирования части веб-сайта ВТБ банка: 
-составила в Miro Mind Map  "Хедер"  https://miro.com/app/board/uXjVMud8gh0=/?share_link_id=443182165082 
+   
+составила в Miro Mind Map  "Хедер"  
+https://miro.com/app/board/uXjVMud8gh0=/?share_link_id=443182165082 
 
 Mind Map "ВТБ/Левое меню" https://miro.com/app/board/uXjVMuecbcc=/?share_link_id=837716149606 
 
