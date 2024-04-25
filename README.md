@@ -12,9 +12,9 @@ https://drive.google.com/file/d/1dH9JJfZ9uKjRY5rHli5AlpxMVRL_k9RU/view?usp=shari
 https://drive.google.com/file/d/1WKyOSFuzGiONabKlg9pJAJdRwkR7DYcX/view?usp=sharing
 
    Проект тестирования части веб-сайта ВТБ банка: 
-составила в Miro mind map    https://miro.com/app/board/uXjVMud8gh0=/?share_link_id=443182165082 
+составила в Miro Mind Map  "Хедер"  https://miro.com/app/board/uXjVMud8gh0=/?share_link_id=443182165082 
 
-https://miro.com/app/board/uXjVMuecbcc=/?share_link_id=837716149606 
+Mind Map "ВТБ/Левое меню" https://miro.com/app/board/uXjVMuecbcc=/?share_link_id=837716149606 
 
    чек-лист позитивных и негативных тестов: 
 
@@ -30,27 +30,24 @@ https://docs.google.com/spreadsheets/d/1DsjP_KODVcNEDNpyUF2K6oBFRIpF9CIN9Ejirkje
   
 https://docs.google.com/spreadsheets/d/1ikIi39x8kFGsOvN_mVnxaHCD9zyxtn8qa_5dtqcd0rU/edit?usp=sharing
 
-   Miro:  mind map   https://miro.com/app/board/uXjVMU0TfUM=/?share_link_id=332121369840
+   Miro:  Mind Map "окно оплаты товара"  https://miro.com/app/board/uXjVMU0TfUM=/?share_link_id=332121369840
    
    вариант написания баг-репорта в Jira: https://drive.google.com/file/d/1iMEt_JqALlNMbN_UHgLKwpTBexNm3rHL/view?usp=sharing
 
-   анализ сайта по заказу:
+   анализ сайта (по заказу):
 https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/edit?usp=sharing
 
-   тестирование сайта предприятия "ЮНИСТИМ" - по заказу (нет разрешения на демонстрацию тестовой документации)
+   тестирование сайта предприятия "ЮНИСТИМ" - (по заказу) (нет разрешения на демонстрацию тестовой документации)
 
 ***********************************************************************************************************************************
 
   РАБОТЫ ПО ТЕСТИРОВАНИЮ ИГР
 
-  Miro:   mind map   https://miro.com/app/board/uXjVNBqpfIE=/?share_link_id=553492498333
-  
-                     mind map   https://miro.com/app/board/uXjVN0QLCTQ=/?share_link_id=857650826832
-                     
-                     mind map   https://miro.com/app/board/uXjVKa6FYQI=/?share_link_id=725828204512
-                     
-                     схема состояний и переходов  https://miro.com/app/board/uXjVNAGry18=/?share_link_id=411455532194
-          
+  Miro:   
+          Mind Map игры Escape the backrooms    https://miro.com/app/board/uXjVKa6FYQI=/?share_link_id=735932795559
+          Mind Map игры Religion Inc    https://miro.com/app/board/uXjVN0QLCTQ=/?share_link_id=373035431446
+          Mind Map игры Fly Corp    https://miro.com/app/board/uXjVNBqpfIE=/?share_link_id=355483047970
+          схема переходов и состояний "подписка"  https://miro.com/app/board/uXjVNAGry18=/?share_link_id=411455532194
  Тестовая документация:
  
  Тестирование монетизации мобильной игры  
