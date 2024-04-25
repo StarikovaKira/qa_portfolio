@@ -65,7 +65,7 @@ https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/
  Работа с GDD, выявление вопросов к требованиям   
  https://docs.google.com/document/d/1Gjrs0cBgT-yTYCiD-i18OUS2gH2yc6UTZfTGloqsjps/edit?usp=sharing
  
- Чек-лист, тест-кейс к игре   
+ Чек-лист, тест-кейс к игре Fly Corp  
  https://docs.google.com/spreadsheets/d/1yKMbUQdqw8YEobStzw0irP_27VAfIYlY5FLSKg09330/edit?usp=sharing
  
  Баг-репорт к прототипу уровня   
