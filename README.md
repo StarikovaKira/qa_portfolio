@@ -81,5 +81,5 @@ https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/
  https://docs.google.com/spreadsheets/d/1DvEMjohB7Q33ku2g_-yK6E68tggpwlrIqbrMrODRyU0/edit?usp=sharing"
 
  Базовая автоматизация с помощью Unreal
- https://drive.google.com/file/d/1mcyCWTncGzVL3WCX6Yoz9ob-cYHcSKdi/view?usp=sharing
+                   https://drive.google.com/file/d/1mcyCWTncGzVL3WCX6Yoz9ob-cYHcSKdi/view?usp=sharing
 
