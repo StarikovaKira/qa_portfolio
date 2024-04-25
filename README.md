@@ -46,16 +46,16 @@ https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/
   РАБОТЫ ПО ТЕСТИРОВАНИЮ ИГР
 
   Miro:   
-          Mind Map игры Escape the backrooms 
+         Mind Map игры Escape the backrooms 
           https://miro.com/app/board/uXjVKa6FYQI=/?share_link_id=735932795559
           
-          Mind Map игры Religion Inc    
+         Mind Map игры Religion Inc    
           https://miro.com/app/board/uXjVN0QLCTQ=/?share_link_id=373035431446
           
-          Mind Map игры Fly Corp    
+         Mind Map игры Fly Corp    
           https://miro.com/app/board/uXjVNBqpfIE=/?share_link_id=355483047970 
           
-          схема переходов и состояний "подписка"  
+         Схема переходов и состояний "подписка"  
           https://miro.com/app/board/uXjVNAGry18=/?share_link_id=411455532194
           
  Тестовая документация:
