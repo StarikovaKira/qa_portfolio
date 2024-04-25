@@ -44,9 +44,9 @@ https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/
   РАБОТЫ ПО ТЕСТИРОВАНИЮ ИГР
 
   Miro:   mind map   https://miro.com/app/board/uXjVNBqpfIE=/?share_link_id=553492498333
-          mind map   https://miro.com/app/board/uXjVN0QLCTQ=/?share_link_id=857650826832
-          mind map   https://miro.com/app/board/uXjVKa6FYQI=/?share_link_id=725828204512
-          схема состояний и переходов  https://miro.com/app/board/uXjVNAGry18=/?share_link_id=411455532194
+                     mind map   https://miro.com/app/board/uXjVN0QLCTQ=/?share_link_id=857650826832
+                     mind map   https://miro.com/app/board/uXjVKa6FYQI=/?share_link_id=725828204512
+                     схема состояний и переходов  https://miro.com/app/board/uXjVNAGry18=/?share_link_id=411455532194
           
  Тестовая документация:
  
