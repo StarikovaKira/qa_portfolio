@@ -7,7 +7,7 @@ https://disk.yandex.ru/i/5ubls4pGPSlYcg
    
    РАБОТЫ ПО ТЕСТИРОВАНИЮ
 
-    анализ сайта (по заказу):
+анализ сайта (по заказу):
 https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/edit?usp=sharing
    
    Участвовала в тестированиях мобильного приложения платёжной системы на базе Android 
