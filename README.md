@@ -45,14 +45,14 @@ https://docs.google.com/spreadsheets/d/1ikIi39x8kFGsOvN_mVnxaHCD9zyxtn8qa_5dtqcd
 
   РАБОТЫ ПО ТЕСТИРОВАНИЮ ИГР
 
-  Тестировала игру  "Escape The Backrooms" на ПК
+  Тестировала игру  "Escape the backrooms" на ПК
 
   Тестовая документация:
   
-  Mind Map игры Escape the backrooms 
+  Mind Map игры "Escape the backrooms" 
   https://miro.com/app/board/uXjVKa6FYQI=/?share_link_id=735932795559
 
-  "Escape the Backrooms" чек-листы, тест-кейсы, баг-репорты
+  "Escape the backrooms" чек-листы, тест-кейсы, баг-репорты
   https://docs.google.com/spreadsheets/d/1yWDglPMqJYgySxhH8GXxAaWCvGCSLHdL8XtDmt5aBLA/edit?usp=sharing
           
   Mind Map игры Religion Inc    
