@@ -6,6 +6,9 @@ https://disk.yandex.ru/i/5ubls4pGPSlYcg
 сертификат   https://otus.ru/certificate/c66ecd7b-9a27-4016-8eb1-362d57987d87/download/?lang=ru-ru
    
    РАБОТЫ ПО ТЕСТИРОВАНИЮ
+
+    анализ сайта (по заказу):
+https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/edit?usp=sharing
    
    Участвовала в тестированиях мобильного приложения платёжной системы на базе Android 
 https://drive.google.com/file/d/1dH9JJfZ9uKjRY5rHli5AlpxMVRL_k9RU/view?usp=sharing
@@ -36,19 +39,21 @@ https://docs.google.com/spreadsheets/d/1ikIi39x8kFGsOvN_mVnxaHCD9zyxtn8qa_5dtqcd
    
    вариант написания баг-репорта в Jira: https://drive.google.com/file/d/1iMEt_JqALlNMbN_UHgLKwpTBexNm3rHL/view?usp=sharing
 
-   анализ сайта (по заказу):
-https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/edit?usp=sharing
-
    тестирование сайта предприятия "ЮНИСТИМ" - (по заказу) (нет разрешения на демонстрацию тестовой документации)
 
 ***********************************************************************************************************************************
 
   РАБОТЫ ПО ТЕСТИРОВАНИЮ ИГР
 
+  Тестировала игру  "Escape The Backrooms" на ПК
+
   Тестовая документация:
   
   Mind Map игры Escape the backrooms 
   https://miro.com/app/board/uXjVKa6FYQI=/?share_link_id=735932795559
+
+  "Escape the Backrooms" чек-листы, тест-кейсы, баг-репорты
+  https://docs.google.com/spreadsheets/d/1yWDglPMqJYgySxhH8GXxAaWCvGCSLHdL8XtDmt5aBLA/edit?usp=sharing
           
   Mind Map игры Religion Inc    
   https://miro.com/app/board/uXjVN0QLCTQ=/?share_link_id=373035431446
