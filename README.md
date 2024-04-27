@@ -3,8 +3,7 @@
    диплом Инженер по тестированию: https://disk.yandex.ru/i/6kmSx2EwyEqwRg    
 https://disk.yandex.ru/i/5ubls4pGPSlYcg
 
-сертификат QA Game   https://otus.ru/certificate/a6a600f6-f3f3-4583-b31b-b4a26acedf6e/download/?lang=ru-ru
-
+сертификат QA Game  https://drive.google.com/file/d/1VRu1plRfjnLjsHt141bm03WPCY3m6z7G/view?usp=sharing
 сертификат Ручное тестирование   https://otus.ru/certificate/c66ecd7b-9a27-4016-8eb1-362d57987d87/download/?lang=ru-ru
 
    
