@@ -17,6 +17,7 @@ https://disk.yandex.ru/i/5ubls4pGPSlYcg
 3. баг-репорты в Jira  https://drive.google.com/file/d/1IRTi7GeFxc3vxMJ8y1tVlkJZaHUZdCI_/view?usp=sharing
                     https://drive.google.com/file/d/1ReMMYqHr6OUwuaxuS8EhnFzHIrLjzJV_/view?usp=sharing
                     https://drive.google.com/file/d/1IiWiWVjUW8yLszhSenMNhZxRYc2OLiY2/view?usp=sharing
+   
 
    Анализ сайта:
 https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/edit?usp=sharing
@@ -24,6 +25,7 @@ https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/
    Участвовала в тестированиях мобильного приложения платёжной системы на базе Android 
 https://drive.google.com/file/d/1dH9JJfZ9uKjRY5rHli5AlpxMVRL_k9RU/view?usp=sharing
 https://drive.google.com/file/d/1WKyOSFuzGiONabKlg9pJAJdRwkR7DYcX/view?usp=sharing
+
 
    Проект тестирования части веб-сайта ВТБ банка: 
    
@@ -50,7 +52,7 @@ https://docs.google.com/spreadsheets/d/1ikIi39x8kFGsOvN_mVnxaHCD9zyxtn8qa_5dtqcd
    
    вариант написания баг-репорта в Jira: https://drive.google.com/file/d/1iMEt_JqALlNMbN_UHgLKwpTBexNm3rHL/view?usp=sharing
 
-   тестирование сайта предприятия "ЮНИСТИМ" - (по заказу) (нет разрешения на демонстрацию тестовой документации)
+   
 
 ***********************************************************************************************************************************
 
