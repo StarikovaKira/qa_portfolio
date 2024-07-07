@@ -13,7 +13,7 @@ https://disk.yandex.ru/i/5ubls4pGPSlYcg
 По результатам: 
 1. составлено 47 баг-репортов, из них 21 - Medium, 26 - Low
 2. предложено 15 улучшений
-Баг-репорты в Jira  https://drive.google.com/file/d/1IRTi7GeFxc3vxMJ8y1tVlkJZaHUZdCI_/view?usp=sharing
+3. Баг-репорты в Jira  https://drive.google.com/file/d/1IRTi7GeFxc3vxMJ8y1tVlkJZaHUZdCI_/view?usp=sharing
                     https://drive.google.com/file/d/1ReMMYqHr6OUwuaxuS8EhnFzHIrLjzJV_/view?usp=sharing
                     https://drive.google.com/file/d/1IiWiWVjUW8yLszhSenMNhZxRYc2OLiY2/view?usp=sharing
 
