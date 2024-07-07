@@ -6,10 +6,10 @@ https://disk.yandex.ru/i/5ubls4pGPSlYcg
 сертификат QA Game  https://drive.google.com/file/d/1VRu1plRfjnLjsHt141bm03WPCY3m6z7G/view?usp=sharing
 сертификат Ручное тестирование   https://otus.ru/certificate/c66ecd7b-9a27-4016-8eb1-362d57987d87/download/?lang=ru-ru
 
-   
+****************************************************************************************************************************
    РАБОТЫ ПО ТЕСТИРОВАНИЮ
    
-   Тестирование сайта предприятия "ЮНИСТИМ":
+  ## Тестирование сайта предприятия "ЮНИСТИМ":
    
 По результатам: 
 1. составлено 47 баг-репортов, из них 21 - Medium, 26 - Low
@@ -19,15 +19,15 @@ https://disk.yandex.ru/i/5ubls4pGPSlYcg
                     https://drive.google.com/file/d/1IiWiWVjUW8yLszhSenMNhZxRYc2OLiY2/view?usp=sharing
    
 
-   Анализ сайта:
+  ## Анализ сайта:
 https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/edit?usp=sharing
    
-   Участвовала в тестированиях мобильного приложения платёжной системы на базе Android 
+  ## Участвовала в тестированиях мобильного приложения платёжной системы на базе Android 
 https://drive.google.com/file/d/1dH9JJfZ9uKjRY5rHli5AlpxMVRL_k9RU/view?usp=sharing
 https://drive.google.com/file/d/1WKyOSFuzGiONabKlg9pJAJdRwkR7DYcX/view?usp=sharing
 
 
-   Проект тестирования части веб-сайта ВТБ банка: 
+  ## Проект тестирования части веб-сайта ВТБ банка: 
    
 составила в Miro Mind Map  "Хедер"  
 https://miro.com/app/board/uXjVMud8gh0=/?share_link_id=443182165082 
