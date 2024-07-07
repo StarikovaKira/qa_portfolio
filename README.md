@@ -1,4 +1,4 @@
-# Портфолио "Инженер по тестированию,  QA Game "
+# Портфолио "Инженер по тестированию "
  
    диплом Инженер по тестированию: https://disk.yandex.ru/i/6kmSx2EwyEqwRg    
 https://disk.yandex.ru/i/5ubls4pGPSlYcg
@@ -8,8 +8,16 @@ https://disk.yandex.ru/i/5ubls4pGPSlYcg
 
    
    РАБОТЫ ПО ТЕСТИРОВАНИЮ
+   
+   Тестирование сайта предприятия "ЮНИСТИМ":
+По результатам: 
+1. составлено 47 баг-репортов, из них 21 - Medium, 26 - Low
+2. предложено 15 улучшений
+Баг-репорты в Jira  https://drive.google.com/file/d/1IRTi7GeFxc3vxMJ8y1tVlkJZaHUZdCI_/view?usp=sharing
+                    https://drive.google.com/file/d/1ReMMYqHr6OUwuaxuS8EhnFzHIrLjzJV_/view?usp=sharing
+                    https://drive.google.com/file/d/1IiWiWVjUW8yLszhSenMNhZxRYc2OLiY2/view?usp=sharing
 
-анализ сайта (по заказу):
+   Анализ сайта:
 https://docs.google.com/document/d/16zhY1Y7YmJbzSBO6Jvh021pqz6mN5G5hdpmxzehoV4I/edit?usp=sharing
    
    Участвовала в тестированиях мобильного приложения платёжной системы на базе Android 
